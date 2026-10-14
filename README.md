@@ -24,10 +24,10 @@ learning and generative AI.
 
 ## Organising team
 
+- Wilson Silva — Utrecht University
 - Jaime S. Cardoso — INESC TEC / University of Porto
 - Adrian Galdran — TECNALIA
 - Valentina Corbetta — Netherlands Cancer Institute
-- Wilson Silva — Utrecht University
 - Miriam Cobo — Cantabria University
 - Aniek Eijpe — Utrecht University
 - Ricardo Cruz — INESC TEC / University of Porto
