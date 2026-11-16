@@ -18,9 +18,9 @@ learning and generative AI.
 |---------|---------|--------|
 | Ordinal Segmentation | Jaime S. Cardoso | [View PDF](slides/Ordinal_Segmentation.pdf) |
 | Ordinal Metrics | Adrian Galdran | [View PDF](slides/Ordinal_Metrics.pdf) |
-| Keynote | Anirban Mukhopadhyay | Not yet uploaded |
+| Keynote: Dynamic Learning | Anirban Mukhopadhyay | [View PDF](slides/Keynote_Dynamic_Learning.pdf) |
 | Ordinal Classification | Carla Monteiro | [View PDF](slides/Ordinal_Classification.pdf) |
-| Ordinal Representations and Generative AI | Wilson Silva | Not yet uploaded |
+| Ordinal Representations and Generative AI | Wilson Silva | [View PDF](slides/Ordinal_Representations.pdf) |
 
 ## Organising team
 
@@ -31,7 +31,7 @@ learning and generative AI.
 - Miriam Cobo — Cantabria University
 - Aniek Eijpe — Utrecht University
 - Ricardo Cruz — INESC TEC / University of Porto
-- Carla Monteiro - INESC TEC
+- Carla Monteiro — INESC TEC
 
 ## Contact
 
