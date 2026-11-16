@@ -28,7 +28,7 @@ learning and generative AI.
 - Jaime S. Cardoso — INESC TEC / University of Porto
 - Adrian Galdran — TECNALIA
 - Valentina Corbetta — Netherlands Cancer Institute
-- Miriam Cobo — Cantabria University
+- Miriam Cobo — University of Cantabria
 - Aniek Eijpe — Utrecht University
 - Ricardo Cruz — INESC TEC / University of Porto
 - Carla Monteiro — INESC TEC
